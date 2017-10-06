@@ -6,4 +6,4 @@ The spreadsheet is as below. This script reads data and sort them into 3 folders
 
 Data which were read from the spreadhsheet are saved into the notebooks. An example result:
 
-![alt text](https://i.imgur.com/sFwQUkm.png)
+![alt text](https://i.imgur.com/lrbtEHc.png)
